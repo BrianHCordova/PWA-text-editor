@@ -18,7 +18,7 @@ This is a progressive web application (PWA) that allows users to create notes or
 
 # Installation
 
-* The website at [this link]() has a prompt for installing the app to your desktop. You can use it as a desktop app without internet, or you may connect to the website directly for use of this text editor! But if you wish to clone the repo and work with it on your own, here are the steps to get it running on your local machine:
+* The website at [this link](https://pwa-text-editor-jmii.onrender.com) has a prompt for installing the app to your desktop. You can use it as a desktop app without internet, or you may connect to the website directly for use of this text editor! But if you wish to clone the repo and work with it on your own, here are the steps to get it running on your local machine:
 
 1) Once repo is cloned, run the following command at the root directory in your terminal for installing necessary dependencies:
 
